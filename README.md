@@ -4,13 +4,13 @@
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
 A:
-![alt tag](https://lh6.googleusercontent.com/7NGcZnpzrQ4ho8e4CWY0oeoRosqLeJ4k8uW8KgUPBbR5wHocMIH8gwV72t-nZx8ZFZeUvNHJ=w1366-h638)
-![alt tag](https://lh4.googleusercontent.com/I5botfaLtkT8G781pwcV72j90eE6JapS-9KFpSpQDd3avSpQhaHzUQZJ20V4KiH2yg5Gloy8=w1366-h638)
+![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/naked_twins_1.JPG)
+![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/naked_twins_2.JPG)
 
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
 A:
-![alt tag](https://lh4.googleusercontent.com/nLGAYWTdTTPRL58bnP7VMpdAmI-qSG2qYC7iSFUiCccN2NdY5t0lQdF3gss23x3K9Ef9QZvLtlyONms=w1366-h638)
+![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/diagonal.JPG)
 
 
 ### Install
