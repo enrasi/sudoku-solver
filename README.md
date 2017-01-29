@@ -4,6 +4,7 @@
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
 A:
+
 ![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/naked_twins_1.JPG)
 ![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/naked_twins_2.JPG)
 
@@ -14,7 +15,9 @@ Second figure shows a special case where we can eliminate 1 and 5 from two group
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
 A:
+
 ![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/diagonal.JPG)
+
 As shown in the figure if one digit is present in the diagonal it can't be presented in other locations in the diagonal. So we use this constraint to solve a diagonal sudoku.
 
 ### Install
