@@ -7,11 +7,15 @@ A:
 ![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/naked_twins_1.JPG)
 ![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/naked_twins_2.JPG)
 
+As shown in above figures digit 1 and 5 are only allowed in shown boxes. So we can apply contraint propagation and eliminate any 1 or 5 in the group. 
+
+Second figure shows a special case where we can eliminate 1 and 5 from two groups.
+
 # Question 2 (Diagonal Sudoku)
 Q: How do we use constraint propagation to solve the diagonal sudoku problem?  
 A:
 ![alt tag](https://raw.githubusercontent.com/enrasi/sudoku-solver/master/content/diagonal.JPG)
-
+As shown in the figure if one digit is present in the diagonal it can't be presented in other locations in the diagonal. So we use this constraint to solve a diagonal sudoku.
 
 ### Install
 
